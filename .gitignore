@@ -175,4 +175,4 @@ media/visualisers/
 
 ./tmp/*
 
-
+*.npz
