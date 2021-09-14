@@ -174,3 +174,4 @@ media/visualisers/
 ./config/settings-client.yaml
 
 ./tmp/*
+*.pem
