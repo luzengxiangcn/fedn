@@ -175,4 +175,4 @@ media/visualisers/
 
 ./tmp/*
 *.pem
-upload_folder/package.tar.gz
+local_run/upload_folder/package.tar.gz
